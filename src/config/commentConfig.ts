@@ -1,7 +1,7 @@
 import type { CommentConfig } from "../types/config";
 
 export const commentConfig: CommentConfig = {
-	// 评论系统类型: none, twikoo, waline, giscus, disqus, artalk，默认为none，即不启用评论系统
+	// 评论系统类型: none, twikoo, waline, giscus, disqus, artalk
 	type: "none",
 
 	//twikoo评论系统配置，版本1.7.4
@@ -13,9 +13,10 @@ export const commentConfig: CommentConfig = {
 		visitorCount: true,
 	},
 
-	//waline评论系统配置
+	//waline评论系统配置（支持文件上传，适合论文PDF和代码文件交换）
 	waline: {
-		// waline 后端服务地址
+		// waline 后端服务地址——部署你自己的 Waline 服务端后替换此 URL
+		// 免费部署教程：https://waline.js.org/guide/get-started.html
 		serverURL: "https://waline.vercel.app",
 		// 设置 Waline 评论系统语言
 		lang: "zh-CN",

@@ -1,1 +1,41 @@
-这里是HTML注入示例，你可以在这个文件中添加自定义的HTML内容
+<style>
+  .footer-credit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px;
+    font-size: 0.85rem;
+    color: #888;
+  }
+  .footer-credit .cat {
+    display: inline-block;
+    font-size: 1.4rem;
+    animation: catBounce 1.2s ease-in-out infinite;
+  }
+  @keyframes catBounce {
+    0%, 100% { transform: translateY(0) scale(1); }
+    30% { transform: translateY(-6px) scale(1.1); }
+    50% { transform: translateY(0) scale(0.95); }
+    70% { transform: translateY(-3px) scale(1.05); }
+  }
+  .footer-credit .sparkle {
+    display: inline-block;
+    animation: sparkle 1.5s ease-in-out infinite;
+  }
+  .footer-credit .sparkle:nth-child(1) { animation-delay: 0s; }
+  .footer-credit .sparkle:nth-child(2) { animation-delay: 0.5s; }
+  .footer-credit .sparkle:nth-child(3) { animation-delay: 1s; }
+  @keyframes sparkle {
+    0%, 100% { opacity: 0.3; transform: scale(0.8); }
+    50% { opacity: 1; transform: scale(1.3); }
+  }
+</style>
+
+<div class="footer-credit">
+  <span class="sparkle">✦</span>
+  <span class="cat">🐱</span>
+  <span>Ge Gaotao 制作</span>
+  <span class="cat" style="animation-delay: 0.4s;">✨</span>
+  <span class="sparkle">✦</span>
+</div>

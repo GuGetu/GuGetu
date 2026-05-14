@@ -13,11 +13,10 @@ export const siteConfig: SiteConfig = {
 	subtitle: "广西师范大学 计算机科学与工程学院",
 
 	// 站点 URL
-	site_url: "https://liujiafei.cn",
+	site_url: "https://liujiafei.xyz",
 
 	// 站点描述
-	description:
-		"刘佳飞，工学博士，广西师范大学计算机科学与工程学院副教授、教研室主任、硕士生导师。主要从事容错计算、故障诊断、网络优化等方向的研究。",
+	description: "刘佳飞的个人主页",
 
 	// 站点关键词
 	keywords: [
@@ -58,7 +57,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/favicon.ico",
+			src: "/assets/images/firefly.png",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
@@ -70,14 +69,14 @@ export const siteConfig: SiteConfig = {
 	navbar: {
 		// 导航栏Logo
 		// 支持三种类型：
-		// 1. Astro图标库: { type: "icon", value: "material-symbols:home-pin-outline" }
+		// 1. Astro图标库: { type: "image", value: "material-symbols:home-pin-outline" }
 		// 2. 本地图片（public目录，不优化）: { type: "image", value: "/assets/images/logo.webp", alt: "Logo" }
 		// 3. 本地图片（src目录，自动优化但会增加构建时间，推荐）: { type: "image", value: "assets/images/logo.webp", alt: "Logo" }
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
 			value: "assets/images/firefly.png",
-			alt: "🍀",
+			alt: "Firefly",
 		},
 		// 导航栏标题
 		title: "刘佳飞",
@@ -130,11 +129,11 @@ export const siteConfig: SiteConfig = {
 	// bangumi的数据为编译时获取的，所以不是实时数据，请配置bangumi.userId
 	pages: {
 		// 友链页面开关
-		friends: false,
+		friends: true,
 		// 赞助页面开关
 		sponsor: false,
 		// 留言板页面开关，需要配置评论系统
-		guestbook: false,
+		guestbook: true,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐，dev调试时只获取一页数据，build才会获取全部数据
 		bangumi: false,
 		// 相册页面开关
@@ -142,7 +141,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 分类导航栏开关，在首页和归档页顶部显示分类快捷导航
-	categoryBar: true,
+	categoryBar: false,
 
 	// 文章列表布局配置
 	postListLayout: {

@@ -6,45 +6,53 @@ import {
 	NavBarSearchMethod,
 } from "../types/config";
 
-// 根据页面开关动态生成导航栏配置
+// 学术主页导航栏配置
 const getDynamicNavBarConfig = (): NavBarConfig => {
 	const links: (NavBarLink | LinkPreset)[] = [
 		// 主页
 		LinkPreset.Home,
 
-		// 归档（新闻 / 学术动态）
-		LinkPreset.Archive,
+		// 研究方向
+		{
+			name: "研究方向",
+			url: "/about/",
+			icon: "material-symbols:biotech",
+		},
 
-		// 关于（学术简历）
+		// 归档（论文成果、论文代码、课题组成员、博文归档）
+		{
+			name: "归档",
+			url: "/archive/",
+			icon: "material-symbols:archive",
+			children: [
+				{
+					name: "论文成果归档",
+					url: "/publications/",
+					icon: "material-symbols:description",
+				},
+				{
+					name: "论文代码归档",
+					url: "/code/",
+					icon: "material-symbols:code",
+				},
+				{
+					name: "课题组成员",
+					url: "/team/",
+					icon: "material-symbols:group",
+				},
+				LinkPreset.Archive,
+			],
+		},
+
+		// 关于
 		LinkPreset.About,
-	];
 
-	// 学术相关外链
-	links.push({
-		name: "学术链接",
-		url: "/links/",
-		icon: "material-symbols:link",
-		children: [
-			{
-				name: "广西师范大学",
-				url: "https://www.gxnu.edu.cn",
-				external: true,
-				icon: "fa7-solid:school",
-			},
-			{
-				name: "计算机学院",
-				url: "http://www.cs.gxnu.edu.cn",
-				external: true,
-				icon: "material-symbols:computer",
-			},
-			{
-				name: "中国计算机学会",
-				url: "https://www.ccf.org.cn",
-				external: true,
-				icon: "material-symbols:group",
-			},
-		],
-	});
+		// 友链
+		LinkPreset.Friends,
+
+		// 留言板
+		LinkPreset.Guestbook,
+	];
 
 	return { links } as NavBarConfig;
 };

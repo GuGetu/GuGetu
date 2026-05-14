@@ -1,0 +1,22 @@
+---
+import { getEntry, render } from "astro:content";
+import Markdown from "@components/common/Markdown.astro";
+import MainGridLayout from "@/layouts/MainGridLayout.astro";
+
+const teamPost = await getEntry("spec", "team");
+
+if (!teamPost) {
+	throw new Error("Team page content not found");
+}
+
+const { Content } = await render(teamPost);
+---
+<MainGridLayout title="课题组成员" description="课题组成员">
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full ">
+            <Markdown class="mt-2">
+                <Content />
+            </Markdown>
+        </div>
+    </div>
+</MainGridLayout>

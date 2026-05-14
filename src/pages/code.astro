@@ -1,0 +1,72 @@
+---
+import { getEntry, render } from "astro:content";
+import Markdown from "@components/common/Markdown.astro";
+import MainGridLayout from "@/layouts/MainGridLayout.astro";
+import fs from "node:fs";
+import path from "node:path";
+
+const codePost = await getEntry("spec", "code");
+
+if (!codePost) {
+	throw new Error("Code page content not found");
+}
+
+const { Content } = await render(codePost);
+
+// 读取代码文件列表
+const codeDir = path.join(process.cwd(), "public/assets/code");
+let codeFiles: { name: string; url: string; size: string }[] = [];
+try {
+	if (fs.existsSync(codeDir)) {
+		const files = fs.readdirSync(codeDir).filter(f => !f.startsWith("."));
+		codeFiles = files.map(f => {
+			const stats = fs.statSync(path.join(codeDir, f));
+			const sizeKB = (stats.size / 1024).toFixed(1);
+			return { name: f, url: `/assets/code/${f}`, size: `${sizeKB} KB` };
+		});
+	}
+} catch (e) {
+	// 目录不存在或无法读取
+}
+---
+<MainGridLayout title="论文代码归档" description="论文代码归档">
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full ">
+            <Markdown class="mt-2">
+                <Content />
+            </Markdown>
+        </div>
+    </div>
+
+    <!-- 代码文件下载区 -->
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32 mt-6">
+        <div class="card-base z-10 px-9 py-6 relative w-full ">
+            <h2 class="text-xl font-bold mb-4">代码文件下载</h2>
+            {
+                codeFiles.length > 0 ? (
+                    <div class="space-y-2">
+                        {codeFiles.map(f => (
+                            <div class="flex items-center justify-between p-3 rounded-lg bg-(--btn-regular-bg) hover:bg-(--primary) hover:text-white transition-colors">
+                                <span class="flex items-center gap-2">
+                                    <span class="text-lg">💻</span>
+                                    <span>{f.name}</span>
+                                    <span class="text-xs opacity-60">({f.size})</span>
+                                </span>
+                                <a href={f.url} download class="px-3 py-1 rounded bg-(--primary) text-white text-sm hover:opacity-80 transition-opacity">
+                                    下载
+                                </a>
+                            </div>
+                        ))}
+                    </div>
+                ) : (
+                    <div class="p-6 rounded-lg bg-(--btn-regular-bg) text-center">
+                        <p class="text-(--content-meta)">暂无代码文件</p>
+                        <p class="text-sm text-(--content-meta) mt-2">
+                            将代码文件放入 <code>public/assets/code/</code> 目录后重新构建，文件将自动在此列出供下载
+                        </p>
+                    </div>
+                )
+            }
+        </div>
+    </div>
+</MainGridLayout>

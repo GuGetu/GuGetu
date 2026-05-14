@@ -1,0 +1,72 @@
+---
+import { getEntry, render } from "astro:content";
+import Markdown from "@components/common/Markdown.astro";
+import MainGridLayout from "@/layouts/MainGridLayout.astro";
+import fs from "node:fs";
+import path from "node:path";
+
+const publicationsPost = await getEntry("spec", "publications");
+
+if (!publicationsPost) {
+	throw new Error("Publications page content not found");
+}
+
+const { Content } = await render(publicationsPost);
+
+// 读取论文PDF文件列表
+const papersDir = path.join(process.cwd(), "public/assets/papers");
+let paperFiles: { name: string; url: string; size: string }[] = [];
+try {
+	if (fs.existsSync(papersDir)) {
+		const files = fs.readdirSync(papersDir).filter(f => !f.startsWith("."));
+		paperFiles = files.map(f => {
+			const stats = fs.statSync(path.join(papersDir, f));
+			const sizeKB = (stats.size / 1024).toFixed(1);
+			return { name: f, url: `/assets/papers/${f}`, size: `${sizeKB} KB` };
+		});
+	}
+} catch (e) {
+	// 目录不存在或无法读取
+}
+---
+<MainGridLayout title="论文成果归档" description="论文成果归档">
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full ">
+            <Markdown class="mt-2">
+                <Content />
+            </Markdown>
+        </div>
+    </div>
+
+    <!-- 论文PDF下载区 -->
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32 mt-6">
+        <div class="card-base z-10 px-9 py-6 relative w-full ">
+            <h2 class="text-xl font-bold mb-4">论文PDF下载</h2>
+            {
+                paperFiles.length > 0 ? (
+                    <div class="space-y-2">
+                        {paperFiles.map(f => (
+                            <div class="flex items-center justify-between p-3 rounded-lg bg-(--btn-regular-bg) hover:bg-(--primary) hover:text-white transition-colors">
+                                <span class="flex items-center gap-2">
+                                    <span class="text-lg">📄</span>
+                                    <span>{f.name}</span>
+                                    <span class="text-xs opacity-60">({f.size})</span>
+                                </span>
+                                <a href={f.url} download class="px-3 py-1 rounded bg-(--primary) text-white text-sm hover:opacity-80 transition-opacity">
+                                    下载
+                                </a>
+                            </div>
+                        ))}
+                    </div>
+                ) : (
+                    <div class="p-6 rounded-lg bg-(--btn-regular-bg) text-center">
+                        <p class="text-(--content-meta)">暂无论文PDF文件</p>
+                        <p class="text-sm text-(--content-meta) mt-2">
+                            将PDF文件放入 <code>public/assets/papers/</code> 目录后重新构建，文件将自动在此列出供下载
+                        </p>
+                    </div>
+                )
+            }
+        </div>
+    </div>
+</MainGridLayout>
