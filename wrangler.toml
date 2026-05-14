@@ -1,0 +1,8 @@
+name = "Gugetu"
+compatibility_date = "2026-05-14" # 更为今日
+
+[assets]
+directory = "./dist"
+
+[vars]
+NODE_VERSION = "22"
