@@ -70,31 +70,28 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "刘佳飞",
 			// 主页横幅主标题字体大小
-			titleSize: "3.8rem",
+			titleSize: "3.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"博士，副教授 / 硕士生导师",
+				"广西师范大学 计算机科学与工程学院",
+				"容错计算 · 故障诊断 · 网络优化",
 			],
 			// 主页横幅副标题字体大小
-			subtitleSize: "1.5rem",
+			subtitleSize: "1.4rem",
 			typewriter: {
 				// 是否启用打字机效果
 				// 打字机开启 → 循环显示所有副标题
 				// 打字机关闭 → 每次刷新随机显示一条副标题
 				enable: true,
 				// 打字速度（毫秒）
-				speed: 100,
+				speed: 80,
 				// 删除速度（毫秒）
-				deleteSpeed: 50,
+				deleteSpeed: 40,
 				// 完全显示后的暂停时间（毫秒）
-				pauseTime: 2000,
+				pauseTime: 2500,
 			},
 		},
 		// 导航栏配置

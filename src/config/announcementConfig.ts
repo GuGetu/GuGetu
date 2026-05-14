@@ -2,10 +2,10 @@ import type { AnnouncementConfig } from "../types/config";
 
 export const announcementConfig: AnnouncementConfig = {
 	// 公告标题
-	title: "公告",
+	title: "招生公告",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "诚招优秀本科生和研究生加入课题组！一起从事高性能计算、数据挖掘等领域研究，长期与国内外多所高校保持良好合作。",
 
 	// 是否允许用户关闭公告
 	closable: true,

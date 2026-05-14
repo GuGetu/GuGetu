@@ -1,38 +1,111 @@
-# 关于我 / About Me
+# 刘佳飞 博士
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
-
-## 🛠️ 关于本站
-
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
-
-## 📫 联系方式
-
-如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
-
-- 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
-- ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
-- 🐧 **QQ交流群：[1087127207](https://qm.qq.com/q/ZGsFa8qX2G)**
+副教授 / 教研室主任、硕士生导师（学硕、专硕）
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+## 基本信息
 
+| 项目 | 内容 |
+|------|------|
+| **姓名** | 刘佳飞 |
+| **性别** | 男 |
+| **出生年月** | 1993年 |
+| **籍贯** | 河南洛阳 |
+| **政治面貌** | 中共党员 |
+| **学历** | 工学博士 |
+| **职称** | 副教授 |
+| **职务** | 教研室主任 |
+| **导师类型** | 硕士生导师（学硕、专硕） |
+
+---
+
+## 研究方向
+
+主要从事 **容错计算、故障诊断、网络优化以及基于社交网络的大数据分析** 等方面的研究。
+
+具体包括：
+- 高性能计算与互连网络故障诊断
+- 容错计算理论与算法设计
+- 大规模网络系统的故障诊断与可靠性分析
+- 数据中心网络结构设计与优化
+- 基于社交网络的大数据挖掘与分析
+- 机器学习在网络优化与故障预测中的应用
+
+---
+
+## 人才称号
+
+- 八桂青年拔尖人才
+- 广西第一批青苗人才计划
+- 广西青托人才工程（资助类）
+
+---
+
+## 教育经历
+
+| 时间 | 学校/机构 | 学位/阶段 |
+|------|-----------|-----------|
+| 2017.09 – 2022.06 | 福建师范大学，计算机与网络空间安全学院 | 工学博士（硕博连读） |
+
+---
+
+## 工作经历
+
+| 时间 | 单位 | 职位 |
+|------|------|------|
+| 2022.06 – 至今 | 广西师范大学，计算机科学与工程学院 | 讲师 → 副教授 |
+
+---
+
+## 学术成果
+
+### 科研项目
+
+- **主持**国家自然科学基金青年项目（29岁获得）、广西自然科学基金及其他各类科研项目 **9项**
+- **参与**国家级项目 **4项**
+
+### 学术论文
+
+在计算机领域国际权威期刊或会议中发表学术论文 **40篇以上**，论文发表在 IEEE TC、IEEE ToN、IEEE TR、JPDC、TCS、DAM 等国际期刊。
+
+### 学术服务
+
+担任以下国际期刊审稿人：
+- IEEE Transactions on Computers (IEEE TC)
+- IEEE/ACM Transactions on Networking (IEEE ToN)
+- IEEE Transactions on Reliability (IEEE TR)
+- Journal of Parallel and Distributed Computing (JPDC)
+- Theoretical Computer Science (TCS)
+- Discrete Applied Mathematics (DAM)
+
+---
+
+## 学术兼职
+
+- **CCF**（中国计算机学会）理论计算机科学执行专委
+- **国家自然科学基金**项目评审专家
+- **CCF**、**CAAI**（中国人工智能学会）、**CSIAM**（中国工业与应用数学学会）会员
+- **CCF YOCSEF 桂林**分论坛学术委员（2024-2029）
+- **CCF YOCSEF 桂林**分论坛副主席（2025-2026）
+- **《广西师范大学学报（自然科学版）》**青年编委
+
+---
+
+## 联系方式
+
+- **电子邮件**：liujiafei@gxnu.edu.cn
+- **通信地址**：广西桂林市七星区育才路15号广西师范大学计算机科学与工程学院
+- **邮编**：541004
+
+---
+
+## 招生信息
+
+**诚招优秀本科生和研究生加入课题组！**
+
+一起从事高性能计算、数据挖掘等领域研究，有趣好玩、倾力相助！长期与美国奥克兰大学、蒙特克莱尔洲立大学、台湾成功大学、台北大学、台北商业大学、苏州大学等有着较好的合作基础。有意者可发送简历到我邮箱。
+
+---
+
+*最后更新于 2026年5月*

@@ -7,25 +7,28 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Ge Gaotao的个人网页",
+	title: "刘佳飞的个人主页",
 
 	// 站点副标题
-	subtitle: "欢迎交流",
+	subtitle: "广西师范大学 计算机科学与工程学院",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://liujiafei.cn",
 
 	// 站点描述
 	description:
-		"欢迎来到Gaotao Ge的Personal Page",
+		"刘佳飞，工学博士，广西师范大学计算机科学与工程学院副教授、教研室主任、硕士生导师。主要从事容错计算、故障诊断、网络优化等方向的研究。",
 
 	// 站点关键词
 	keywords: [
+		"刘佳飞",
 		"广西师范大学",
+		"计算机科学",
+		"容错计算",
+		"故障诊断",
+		"网络优化",
 		"高性能计算",
-		"算法设计",
-		"互连网络",
-		"机器学习",
+		"数据挖掘",
 	],
 
 	// 主题色
@@ -41,7 +44,7 @@ export const siteConfig: SiteConfig = {
 	// 页面整体宽度（单位：rem）
 	// 数值越大可以让页面内容区域更宽
 	// 在使用单侧栏边栏时，建议调低一些宽度以获得更好的视觉效果。
-	pageWidth: 100,
+	pageWidth: 90,
 
 	// 网站Card样式配置
 	card: {
@@ -77,7 +80,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "GeGaotao",
+		title: "刘佳飞",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -127,15 +130,15 @@ export const siteConfig: SiteConfig = {
 	// bangumi的数据为编译时获取的，所以不是实时数据，请配置bangumi.userId
 	pages: {
 		// 友链页面开关
-		friends: true,
+		friends: false,
 		// 赞助页面开关
-		sponsor: true,
+		sponsor: false,
 		// 留言板页面开关，需要配置评论系统
-		guestbook: true,
+		guestbook: false,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐，dev调试时只获取一页数据，build才会获取全部数据
-		bangumi: true,
+		bangumi: false,
 		// 相册页面开关
-		gallery: true,
+		gallery: false,
 	},
 
 	// 分类导航栏开关，在首页和归档页顶部显示分类快捷导航
