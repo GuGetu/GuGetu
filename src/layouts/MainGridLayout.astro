@@ -910,15 +910,10 @@ const bannerCarouselInterval = Math.max(
 </Layout>
 
 <style is:global>
-  /* 文章封面统一 16:9，让成员照片能完整铺满、不被二次裁切 */
+  /* 文章封面按图片自身比例显示，不做二次裁切
+     （成员封面统一出的是 16:9 图，个别保留原图的照片会按原比例完整展示） */
   #post-cover {
-    aspect-ratio: 16 / 9;
-  }
-
-  @media (max-width: 768px) {
-    #post-cover {
-      aspect-ratio: 4 / 3;
-    }
+    aspect-ratio: auto;
   }
 
   /* 右侧栏平滑过渡 */

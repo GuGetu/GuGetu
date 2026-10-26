@@ -67,9 +67,15 @@ PHOTO_CROP = {
     # 竖构图、人物偏左：头像收紧缩到脸部，封面保留讲话场景
     "liuwenfei": {"cover": {"fx": 0.5, "fy": 0.07, "zoom": 1.0},
                   "avatar": {"fx": 0.0, "fy": 0.12, "zoom": 0.50}},
+    # 漫展合影：他在右边，头像向右收紧对准本人，封面保留两个人
+    "xieyanzhen": {"cover": {"fx": 0.5, "fy": 0.0, "zoom": 1.0},
+                   "avatar": {"fx": 0.74, "fy": 0.03, "zoom": 0.62}},
 }
 DEFAULT_COVER_CROP = {"fx": 0.5, "fy": 0.40, "zoom": 1.0}
 DEFAULT_AVATAR_CROP = {"fx": 0.5, "fy": 0.35, "zoom": 1.0}
+
+# 这些成员的照片不做任何裁剪：封面按原图比例、头像用模糊背景 + 完整等比放入
+NO_CROP = {"xieyanzhen"}
 
 PHOTO_EXTS = (".jpg", ".jpeg", ".png", ".webp")
 
@@ -256,6 +262,34 @@ def crop_to(img, size_wh, fx=0.5, fy=0.5, zoom=1.0):
     return img.crop((left, top, left + bw, top + bh)).resize((tw, th), Image.LANCZOS)
 
 
+def uncropped_cover(im, width=COVER_W):
+    """原图不裁剪：只等比缩放，保持照片原本的比例与全部内容。"""
+    w, h = im.size
+    if w > width:
+        im = im.resize((width, max(1, round(h * width / w))), Image.LANCZOS)
+    return im
+
+
+def uncropped_avatar(im, size=AVATAR_SIZE):
+    """原图不裁剪地放进方形头像：背景用自身模糊放大填充，前景完整等比放入。"""
+    side = size
+    # 背景：cover 缩放到方形后模糊压暗
+    w, h = im.size
+    scale = max(side / w, side / h)
+    bg = im.resize((max(side, round(w * scale)), max(side, round(h * scale))), Image.LANCZOS)
+    left = (bg.width - side) // 2
+    top = (bg.height - side) // 2
+    bg = bg.crop((left, top, left + side, top + side))
+    bg = bg.filter(ImageFilter.GaussianBlur(side * 0.045))
+    bg = Image.eval(bg, lambda v: int(v * 0.62))
+    # 前景：contain 等比放入
+    fs = min(side / w, side / h)
+    fg = im.resize((max(1, round(w * fs)), max(1, round(h * fs))), Image.LANCZOS)
+    canvas = bg.convert("RGBA")
+    canvas.paste(fg, ((side - fg.width) // 2, (side - fg.height) // 2))
+    return canvas
+
+
 def make_avatar(person):
     c1, c2 = PALETTE[person["color"]]
     hue = person_hue(person["name"])
@@ -263,8 +297,10 @@ def make_avatar(person):
     c2 = shift_hue(c2, hue)
     size = (AVATAR_SIZE, AVATAR_SIZE)
     if person["photo"]:
-        spec = PHOTO_CROP.get(person["slug"], {}).get("avatar", DEFAULT_AVATAR_CROP)
         im = Image.open(person["photo"]).convert("RGB")
+        if person["slug"] in NO_CROP:
+            return uncropped_avatar(im)
+        spec = PHOTO_CROP.get(person["slug"], {}).get("avatar", DEFAULT_AVATAR_CROP)
         out = crop_to(im, size, **spec)
         # 圆形
         mask = Image.new("L", (AVATAR_SIZE * 4, AVATAR_SIZE * 4), 0)
@@ -286,8 +322,10 @@ def make_cover(person):
     c2 = shift_hue(c2, hue)
     size = (COVER_W, COVER_H)
     if person["photo"]:
-        spec = PHOTO_CROP.get(person["slug"], {}).get("cover", DEFAULT_COVER_CROP)
         im = Image.open(person["photo"]).convert("RGB")
+        if person["slug"] in NO_CROP:
+            return uncropped_cover(im).convert("RGBA")
+        spec = PHOTO_CROP.get(person["slug"], {}).get("cover", DEFAULT_COVER_CROP)
         return crop_to(im, size, **spec).convert("RGBA")
     return placeholder(size, c1, c2)
 

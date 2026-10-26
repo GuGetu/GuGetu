@@ -23,6 +23,14 @@ draft: false
 
 2026 级硕士研究生，即将进入课题组开展互连网络可靠性与故障诊断研究。
 
+## 照片说明
+
+<div class="not-prose my-3 rounded-xl border border-(--line-divider) bg-(--card-bg) px-4 py-3">
+<p class="m-0"><strong>⚠️ 友情提示：右边那个比剪刀手的才是我，左边是漫展偶遇的兔耳小姐姐——我只是恰好在场，没有 cosplay 技能点 🐰✌️</strong></p>
+</div>
+
+> 如果只看左边那只兔子，可能会误以为课题组研究方向是「毛绒玩具可靠性分析」🧸
+
 ---
 
 > 本页内容依据[刘佳飞老师学院主页](http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm)整理，如有更新欢迎联系 **刘佳飞**（liujiafei@gxnu.edu.cn）。
