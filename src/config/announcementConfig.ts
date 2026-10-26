@@ -5,7 +5,8 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "招生公告",
 
 	// 公告内容
-	content: "诚招优秀本科生和研究生加入课题组！一起从事高性能计算、数据挖掘等领域研究，长期与国内外多所高校保持良好合作。",
+	content:
+		"诚招优秀本科生和研究生加入课题组！方向覆盖容错计算、故障诊断、网络优化与复杂网络数据挖掘，欢迎 2027 级同学联系 liujiafei@gxnu.edu.cn。",
 
 	// 是否允许用户关闭公告
 	closable: true,
@@ -14,9 +15,9 @@ export const announcementConfig: AnnouncementConfig = {
 		// 启用链接
 		enable: true,
 		// 链接文本
-		text: "了解更多",
+		text: "课题组介绍",
 		// 链接 URL
-		url: "/about/",
+		url: "/team/",
 		// 内部链接
 		external: false,
 	},

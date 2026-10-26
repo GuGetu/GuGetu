@@ -7,7 +7,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "刘佳飞的个人主页",
+	title: "刘佳飞 · 课题组主页",
 
 	// 站点副标题
 	subtitle: "广西师范大学 计算机科学与工程学院",
@@ -16,7 +16,8 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://liujiafei.xyz",
 
 	// 站点描述
-	description: "刘佳飞的个人主页",
+	description:
+		"刘佳飞，博士，广西师范大学计算机科学与工程学院副教授、硕士生导师。课题组聚焦容错计算、故障诊断、网络优化与复杂网络数据挖掘。",
 
 	// 站点关键词
 	keywords: [
@@ -26,8 +27,11 @@ export const siteConfig: SiteConfig = {
 		"容错计算",
 		"故障诊断",
 		"网络优化",
+		"复杂网络",
+		"节点影响力",
 		"高性能计算",
 		"数据挖掘",
+		"互连网络可靠性",
 	],
 
 	// 主题色

@@ -1,5 +1,6 @@
 import type { ProfileConfig } from "../types/config";
 
+// 链接配置
 export const profileConfig: ProfileConfig = {
 	// 头像
 	avatar: "assets/images/avatar.png",
@@ -19,9 +20,15 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
-			name: "广西师范大学",
+			name: "学院主页",
 			icon: "fa7-solid:school",
-			url: "http://www.cs.gxnu.edu.cn",
+			url: "http://www.cs.gxnu.edu.cn/ljf/",
+			showName: false,
+		},
+		{
+			name: "个人博客",
+			icon: "fa7-solid:blog",
+			url: "http://blog.liujiafei.xyz/",
 			showName: false,
 		},
 		{

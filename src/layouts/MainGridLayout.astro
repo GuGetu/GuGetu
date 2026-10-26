@@ -2,6 +2,7 @@
 import Live2DWidget from "@components/features/Live2DWidget.astro";
 
 import SpineModel from "@components/features/SpineModel.astro";
+import TeacherPet from "@components/features/TeacherPet.astro";
 import Footer from "@components/layout/Footer.astro";
 import Navbar from "@components/layout/Navbar.astro";
 import SideBar from "@components/layout/SideBar.astro";
@@ -17,6 +18,7 @@ import {
 	live2dModelConfig,
 	sidebarLayoutConfig,
 	siteConfig,
+	teacherPetConfig,
 } from "@/config";
 import {
 	BANNER_HEIGHT,
@@ -901,10 +903,24 @@ const bannerCarouselInterval = Math.max(
 
 <FloatingControls headings={headings} />
 
+{/* 网页桌宠：放在最外层，避免被容器的 transform / overflow 影响定位 */}
+{teacherPetConfig.enable && <TeacherPet />}
+
 
 </Layout>
 
 <style is:global>
+  /* 文章封面统一 16:9，让成员照片能完整铺满、不被二次裁切 */
+  #post-cover {
+    aspect-ratio: 16 / 9;
+  }
+
+  @media (max-width: 768px) {
+    #post-cover {
+      aspect-ratio: 4 / 3;
+    }
+  }
+
   /* 右侧栏平滑过渡 */
   #right-sidebar {
     transition: opacity 0.35s ease-in-out,

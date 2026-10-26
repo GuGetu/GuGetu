@@ -21,9 +21,17 @@ export const friendsPageConfig: FriendsPageConfig = {
 };
 
 // 友链配置
-
-// 友链列表（暂无）
-export const friendsConfig: FriendLink[] = [];
+export const friendsConfig: FriendLink[] = [
+	{
+		title: "周书明 · 福建师范大学",
+		imgurl: "/assets/images/friends/zhoushuming.webp",
+		desc: "福建师范大学数学与统计学院教授、博士生导师，图论与理论计算机科学、网络容错与故障诊断方向专家。",
+		siteurl: "https://math.fjnu.edu.cn/6f/14/c15118a290580/page.htm",
+		tags: ["导师", "高校学者", "容错计算", "图论"],
+		weight: 100,
+		enabled: true,
+	},
+];
 
 export const getEnabledFriends = (): FriendLink[] => {
 	return friendsConfig.filter((f) => f.enabled);

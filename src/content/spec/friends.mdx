@@ -131,6 +131,68 @@ export const notes = [
     </div>
   </div>
 
+  {/* 底部：重点友链介绍 */}
+  <div class="mt-4 rounded-2xl border border-(--line-divider) overflow-hidden">
+    <div class="p-5 sm:p-6">
+      <h3 class="text-base font-bold mb-4 flex items-center gap-2">
+        <span class="w-6 h-6 rounded-lg bg-(--primary)/10 flex items-center justify-center text-(--primary)">
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.196-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118L2.007 10.1c-.783-.57-.38-1.81.588-1.81h4.915a1 1 0 00.95-.69l1.519-4.674z"/></svg>
+        </span>
+        特别推荐
+      </h3>
+
+      <div class="flex flex-col sm:flex-row gap-5">
+        <a href="https://math.fjnu.edu.cn/6f/14/c15118a290580/page.htm" target="_blank" rel="noopener noreferrer" class="shrink-0 self-start group">
+          <img
+            src="/assets/images/friends/zhoushuming.webp"
+            alt="周书明 教授"
+            width="128"
+            height="128"
+            loading="lazy"
+            decoding="async"
+            class="w-28 h-28 sm:w-32 sm:h-32 rounded-2xl object-cover ring-2 ring-(--primary)/20 shadow-sm transition-transform duration-200 group-hover:scale-[1.03]"
+          />
+        </a>
+
+        <div class="min-w-0">
+          <div class="flex flex-wrap items-center gap-2">
+            <p class="text-lg font-bold m-0">周书明</p>
+            <span class="text-[0.7rem] px-2 py-0.5 rounded-full bg-(--primary)/10 text-(--primary) font-medium">教授 · 博士生导师</span>
+          </div>
+          <p class="text-xs text-neutral-500 dark:text-neutral-400 mt-1 mb-2">福建师范大学 数学与统计学院</p>
+
+          <p class="text-sm leading-relaxed text-neutral-700 dark:text-neutral-300 m-0">
+            男，1972 年 7 月生，湖北麻城人。福建师范大学数学与统计学院教授、博士生导师，分析数学及应用教育部重点实验室、福建省应用数学中心主要成员。校"宝琛计划"特聘教授（2021—2023），2022 年入选福建省高层次"C 类人才"，2025 年入选福建省高层次"B 类人才"。长期从事离散数学、图论与网络优化、故障诊断及检测、容错计算以及基于复杂网络和社交网络的大数据分析研究。
+          </p>
+
+          <div class="mt-3 flex flex-wrap gap-1.5">
+            {["图论", "理论计算机科学", "社交网络大数据分析", "系统级故障诊断", "数学教育"].map((t) => (
+              <span class="text-[0.65rem] px-2 py-0.5 rounded-md bg-black/5 dark:bg-white/10 text-neutral-600 dark:text-neutral-300">{t}</span>
+            ))}
+          </div>
+
+          <div class="mt-3 grid grid-cols-2 sm:grid-cols-3 gap-2 text-[0.7rem]">
+            <div class="rounded-lg bg-black/5 dark:bg-white/5 px-2.5 py-1.5"><span class="text-neutral-500 dark:text-neutral-400">国家自然科学基金</span><br /><span class="font-semibold">主持 2 项面上项目</span></div>
+            <div class="rounded-lg bg-black/5 dark:bg-white/5 px-2.5 py-1.5"><span class="text-neutral-500 dark:text-neutral-400">IEEE 汇刊论文</span><br /><span class="font-semibold">21 篇</span></div>
+            <div class="rounded-lg bg-black/5 dark:bg-white/5 px-2.5 py-1.5"><span class="text-neutral-500 dark:text-neutral-400">培养博士</span><br /><span class="font-semibold">10 人</span></div>
+          </div>
+
+          <div class="mt-4 flex flex-wrap items-center gap-3 text-xs">
+            <a href="https://math.fjnu.edu.cn/6f/14/c15118a290580/page.htm" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-(--primary) text-white no-underline hover:opacity-90 transition-opacity">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+              访问主页
+            </a>
+            <a href="mailto:zhoushuming@fjnu.edu.cn" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-black/5 dark:bg-white/10 no-underline text-neutral-700 dark:text-neutral-200 hover:opacity-80 transition-opacity">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+              zhoushuming@fjnu.edu.cn
+            </a>
+            <span class="text-neutral-500 dark:text-neutral-400">福州市大学城科技路 1 号 · 350117</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   {/* 底部：注意事项 */}
   <div class="mt-4 rounded-2xl border border-(--line-divider) overflow-hidden">
     <div class="p-5 sm:p-6">
