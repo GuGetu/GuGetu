@@ -20,10 +20,19 @@ function joinUrl(...parts: string[]): string {
 	return joined.replace(/\/+/g, "/");
 }
 
+/**
+ * 文章 slug：只取文件名部分。
+ * 分类文件夹（如 研究生/2026级）只用来整理内容，不参与 URL，
+ * 所以把文章移到别的分类目录不会改变已有链接。
+ */
+export function getPostSlug(id: string): string {
+	const noExt = removeFileExtension(id);
+	const i = noExt.lastIndexOf("/");
+	return i < 0 ? noExt : noExt.slice(i + 1);
+}
+
 export function getPostUrlBySlug(slug: string): string {
-	// 移除文件扩展名（如 .md, .mdx 等）
-	const slugWithoutExt = removeFileExtension(slug);
-	return url(`/posts/${slugWithoutExt}/`);
+	return url(`/posts/${getPostSlug(slug)}/`);
 }
 
 export function getTagUrl(tag: string): string {

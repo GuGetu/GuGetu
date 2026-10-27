@@ -4,7 +4,7 @@ import * as fs from "node:fs";
 import type { APIContext, GetStaticPaths } from "astro";
 import satori from "satori";
 import sharp from "sharp";
-import { removeFileExtension } from "@/utils/url-utils";
+import { getPostSlug } from "@/utils/url-utils";
 
 import { profileConfig } from "../../config/profileConfig";
 import { siteConfig } from "../../config/siteConfig";
@@ -30,8 +30,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
 	const publishedPosts = allPosts.filter((post) => !post.data.draft);
 
 	return publishedPosts.map((post) => {
-		// 将 id 转换为 slug（移除扩展名）以匹配路由参数
-		const slug = removeFileExtension(post.id);
+		// slug 只取文件名（分类文件夹不参与 URL）
+		const slug = getPostSlug(post.id);
 		return {
 			params: { slug },
 			props: { post },
