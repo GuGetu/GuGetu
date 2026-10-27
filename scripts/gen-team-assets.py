@@ -20,6 +20,7 @@
 新增成员或补上照片后重跑本脚本即可，无需改动其它文件。
 """
 import hashlib
+import glob
 import io
 import os
 import re
@@ -75,17 +76,18 @@ DEFAULT_COVER_CROP = {"fx": 0.5, "fy": 0.40, "zoom": 1.0}
 DEFAULT_AVATAR_CROP = {"fx": 0.5, "fy": 0.35, "zoom": 1.0}
 
 # 这些成员的照片不做任何裁剪：封面按原图比例、头像用模糊背景 + 完整等比放入
-NO_CROP = {"xieyanzhen"}
+NO_CROP = {"xieyanzhen", "lijiaqi"}
 
 PHOTO_EXTS = (".jpg", ".jpeg", ".png", ".webp")
 
 
 def read_posts():
     people = []
-    for fn in sorted(os.listdir(POSTS)):
+    # 递归扫描：成员档案按 研究生/2026级 这类分类文件夹存放
+    for path in sorted(glob.glob(os.path.join(POSTS, "**", "*.md"), recursive=True)):
+        fn = os.path.basename(path)
         if not fn.endswith(".md"):
             continue
-        path = os.path.join(POSTS, fn)
         with io.open(path, encoding="utf-8") as f:
             text = f.read()
         m = re.search(r"(?m)^title:\s*(.+?)\s+-\s+(\S.*)$", text)
@@ -262,11 +264,14 @@ def crop_to(img, size_wh, fx=0.5, fy=0.5, zoom=1.0):
     return img.crop((left, top, left + bw, top + bh)).resize((tw, th), Image.LANCZOS)
 
 
-def uncropped_cover(im, width=COVER_W):
+def uncropped_cover(im, width=COVER_W, max_h=1400):
     """原图不裁剪：只等比缩放，保持照片原本的比例与全部内容。"""
     w, h = im.size
     if w > width:
         im = im.resize((width, max(1, round(h * width / w))), Image.LANCZOS)
+    # 竖构图封顶高度，避免整页被一张超高图撑开
+    if im.height > max_h:
+        im = im.resize((max(1, round(im.width * max_h / im.height)), max_h), Image.LANCZOS)
     return im
 
 
