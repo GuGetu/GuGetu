@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>刘佳飞 · 课题组主页</title><description>广西师范大学 计算机科学与工程学院</description><link>https://liujiafei.xyz/</link><templateTheme>Firefly</templateTheme><templateThemeVersion>6.10.3</templateThemeVersion><templateThemeUrl>https://github.com/CuteLeaf/Firefly</templateThemeUrl><lastBuildDate>2026年10月27日 15:20:58</lastBuildDate><item><title>欢迎访问刘佳飞课题组主页</title><link>https://liujiafei.xyz/posts/welcome/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/welcome/</guid><description>刘佳飞，博士，广西师范大学计算机科学与工程学院副教授、硕士生导师。课题组聚焦容错计算、故障诊断、网络优化与复杂网络数据挖掘。</description><pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;刘佳飞（1993—），河南洛阳人，中共党员，工学博士，硕士研究生导师。入选&lt;strong&gt;广西八桂青年拔尖人才&lt;/strong&gt;、&lt;strong&gt;广西第一批青苗人才计划&lt;/strong&gt;、&lt;strong&gt;广西青年科技人才托举工程（资助类）&lt;/strong&gt;，荣获广西师范大学&lt;strong&gt;学生最喜爱的教师&lt;/strong&gt;、优秀班主任、本科教学优秀奖、教学创新大赛二等奖、教学新秀等。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;研究方向&lt;a href=&quot;#研究方向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;容错计算&lt;/strong&gt;：多处理机系统可靠性评估与互连网络容错结构设计&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;故障诊断&lt;/strong&gt;：PMC / MM* / 比较模型下的自适应系统级故障诊断&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网络优化&lt;/strong&gt;：互连网络的连通度、分支连通度与容错路径搜索&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据挖掘&lt;/strong&gt;：社团探测、节点影响力排序、链路预测&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;科研概况&lt;a href=&quot;#科研概况&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;主持国家自然科学基金青年项目（29 岁获得）、广西自然科学基金及其他各类科研项目 &lt;strong&gt;14 项&lt;/strong&gt;，参与国家级项目 &lt;strong&gt;4 项&lt;/strong&gt;。在 IEEE TC、IEEE/ACM ToN、IEEE TR、IEEE TCBB、ESWA、JPDC、INS、COCOON 等国际权威期刊与会议发表学术论文 &lt;strong&gt;40 余篇&lt;/strong&gt;，授权/受理发明专利与软件著作权 &lt;strong&gt;8 项&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;课题组目前在读研究生 &lt;strong&gt;11 人&lt;/strong&gt;、本科生 &lt;strong&gt;29 人&lt;/strong&gt;，成员以第一作者在 IEEE TC、IEEE/ACM ToN、IEEE TR、Information Sciences、Neurocomputing 等期刊发表论文 20 余篇。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;招生信息&lt;a href=&quot;#招生信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;欢迎 2027 级研究生和 2027 级本科生联系我！&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;招生方向&lt;/strong&gt;：软件工程、计算机科学与技术（学硕）；软件工程、电子信息、计算机技术（专硕）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;成长支持&lt;/strong&gt;：科研突出者提供补贴奖励，推荐申请奖学金与科研基金，优先资助海内外学术交流&lt;/li&gt;
+&lt;li&gt;长期与美国奥克兰大学、蒙特克莱尔州立大学、台湾成功大学、台北大学、苏州大学、东北大学等保持合作&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;联系方式&lt;a href=&quot;#联系方式&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地址&lt;/strong&gt;：广西桂林市七星区育才路 15 号 广西师范大学计算机科学与工程学院&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学院主页&lt;/strong&gt;：&lt;a href=&quot;http://www.cs.gxnu.edu.cn/ljf/&quot; target=&quot;_blank&quot;&gt;http://www.cs.gxnu.edu.cn/ljf/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;个人博客&lt;/strong&gt;：&lt;a href=&quot;http://blog.liujiafei.xyz/&quot; target=&quot;_blank&quot;&gt;http://blog.liujiafei.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;想看每位同学的具体成果与去向？前往&lt;a href=&quot;/team/&quot;&gt;课题组成员&lt;/a&gt;页面。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>刘文飞 - 2023级硕士研究生</title><link>https://liujiafei.xyz/posts/liuwenfei/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/liuwenfei/</guid><description>刘文飞，2023级硕士研究生，研究方向为容错计算、网络故障诊断。</description><pubDate>Sat, 16 May 2026 12:10:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;刘文飞&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;容错计算、网络故障诊断&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023级硕士研究生，围绕大规模互连网络的故障诊断与可靠性分析开展研究，已发表高水平论文 5 篇，获研究生学术之星。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Wenfei Liu, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Jingli Wu, Chia-Wei Lee, Dajin Wang, Gaoshi Li. Learning-based network diagnostics: handling high fault densities with PMC/MM* model. &lt;em&gt;Expert Systems With Applications&lt;/em&gt; 307(2026)130992（SCI 1区, JCR1区, TOP期刊）&lt;/li&gt;
+&lt;li&gt;Wenfei Liu, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Eddie Cheng, Sun-Yuan Hsieh, Jingli Wu, Gaoshi Li. A multi-attribute adaptive fault diagnosis framework for star networks. &lt;em&gt;IEEE Transactions on Computers&lt;/em&gt; 75(1)(2026)114-126（SCI 2区, CCF A类, JCR1区, TOP期刊）&lt;/li&gt;
+&lt;li&gt;Wenfei Liu, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, et al. Two-Round Probabilistic Diagnosis Algorithm for fault identification. &lt;em&gt;Discrete Applied Mathematics&lt;/em&gt; 391(2026)432–448（SCI 3区, CCF C类, 数学类TOP期刊）&lt;/li&gt;
+&lt;li&gt;Wenfei Liu, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Jou-Ming Chang, Jingli Wu, Qi Wang. A novel fault-tolerant technique for star graph-based interconnection networks. &lt;em&gt;Journal of Supercomputing&lt;/em&gt; 81(2025)820（SCI, CCF C类）&lt;/li&gt;
+&lt;li&gt;刘文飞, &lt;strong&gt;刘佳飞(通讯作者)&lt;/strong&gt;, 王琦, 吴璟莉, 李高仕. 基于星图的互连网络分支可靠性分析. &lt;em&gt;计算机科学&lt;/em&gt; 52(7)(2025)295-306（北大中文核心, CCF B类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;研究生学术之星&lt;/li&gt;
+&lt;li&gt;研究生一等奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;攻读博士学位（福州大学）&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>王琦 - 2023级硕士研究生</title><link>https://liujiafei.xyz/posts/wangqi/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wangqi/</guid><description>王琦，2023级硕士研究生，研究方向为网络优化、故障诊断。</description><pubDate>Sat, 16 May 2026 12:08:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;王琦&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;网络优化、故障诊断&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023级硕士研究生，聚焦超立方体类互连网络的条件诊断与容错性分析，以主要作者发表 CCF A 类期刊论文。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Qi Wang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Dajin Wang, Wenfei Liu, Jingli Wu, Gaoshi Li. A novel conditional diagnostic scheme for Hypercube-based multiprocessor systems. &lt;em&gt;IEEE/ACM Transactions on Networking&lt;/em&gt; 34(2026)2092-2102（SCI, CCF A类, JCR1区, TOP期刊）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jiafei Liu&lt;/strong&gt;, Qi Wang, Chia-Wei Lee. A dual-attribute fault diagnosis algorithm and its applications. &lt;em&gt;Journal of Applied Mathematics and Computing&lt;/em&gt; 71(2025)8831–8850（SCI 2区）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jiafei Liu&lt;/strong&gt;, Qi Wang, Chia-Wei Lee, Wenfei Liu, Jingli Wu, Gaoshi Li. Fault tolerance analysis of half hypercube networks under the 1-extra r-component pattern. &lt;em&gt;ICCNC 2025&lt;/em&gt;, vol 2539, pp 111–120, Springer（EI）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;研究生一等奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>毛远康 - 2024级硕士研究生</title><link>https://liujiafei.xyz/posts/maoyuankang/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/maoyuankang/</guid><description>毛远康，2024级硕士研究生，研究方向为容错计算、故障诊断。</description><pubDate>Sat, 16 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;毛远康&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;容错计算、故障诊断&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024级硕士研究生，研究超立方体网络的 g-good-neighbor r-分量可诊断性及其算法实现，并参与多项发明专利。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Yuankang Mao, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Sun-Yuan Hsieh, Jingli Wu, Gaoshi Li. The g-good-neighbor r-component diagnosability of hypercube – theoretical and algorithmic approaches. &lt;em&gt;IEEE Transactions on Reliability&lt;/em&gt; 75(2026)247-259（SCI 2区, JCR1区）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;刘佳飞, 毛远康, 吴璟莉, 梁春健, 郭铖, 李高仕. 一种基于超立方体网络的故障诊断方法. 2025-07-17, 中国, 2025109891404（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 郭铖, 吴璟莉, 毛远康, 梁春健, 李高仕. 一种基于多特征容错框架的双向容错路径搜索方法. 2025-07-04, 中国, 2025109214841（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 梁春健, 吴璟莉, 郭铖, 毛远康, 李高仕. 一种双阶段正则网络故障诊断方法. 2025-07-01, 中国, 2025108982694（专利, 受理）&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>郭铖 - 2024级硕士研究生</title><link>https://liujiafei.xyz/posts/guocheng/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/guocheng/</guid><description>郭铖，2024级硕士研究生，研究方向为网络故障诊断、容错计算。</description><pubDate>Sat, 16 May 2026 11:58:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;郭铖&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;网络故障诊断、容错计算&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024级硕士研究生，专注互连网络的额外连通度与条件可诊断性研究，获研究生国家奖学金。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Cheng Guo, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Eddie Cheng, Sun-Yuan Hsieh. Relating extra-component connectivity and extra-component conditional diagnosability in interconnection networks. &lt;em&gt;IEEE Transactions on Reliability&lt;/em&gt; 75(2026)3072-3084（SCI 2区, JCR1区）&lt;/li&gt;
+&lt;li&gt;Cheng Guo, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Dajin Wang, Jingli Wu, Gaoshi Li. The h-extra r-component connectivity for a class of interconnection networks. &lt;em&gt;Theoretical Computer Science&lt;/em&gt; 1084(2026)116185（SCI, CCF B类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;刘佳飞, 郭铖, 吴璟莉, 毛远康, 梁春健, 李高仕. 一种基于多特征容错框架的双向容错路径搜索方法. 2025-07-04, 中国, 2025109214841（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 郭铖, 廖福星, 吴璟莉, 李高仕. 一种自适应系统级故障自诊断方法. 2025-06-09, 中国, 2025107581390（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 毛远康, 吴璟莉, 梁春健, 郭铖, 李高仕. 一种基于超立方体网络的故障诊断方法. 2025-07-17, 中国, 2025109891404（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 梁春健, 吴璟莉, 郭铖, 毛远康, 李高仕. 一种双阶段正则网络故障诊断方法. 2025-07-01, 中国, 2025108982694（专利, 受理）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;研究生国家奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>梁春健 - 2024级硕士研究生</title><link>https://liujiafei.xyz/posts/liangchunjian/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/liangchunjian/</guid><description>梁春健，2024级硕士研究生，研究方向为网络可靠性分析。</description><pubDate>Sat, 16 May 2026 11:56:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;梁春健&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;网络可靠性分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024级硕士研究生，研究基于两阶段诊断算法的系统可靠性评估，获研究生国家奖学金。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Chunjian Liang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, Jingli Wu, Gaoshi Li. An efficient two-stage diagnostic algorithm for assessing system reliability. &lt;em&gt;Theoretical Computer Science&lt;/em&gt; 1063(2026)115679（SCI, CCF B类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;刘佳飞, 梁春健, 吴璟莉, 郭铖, 毛远康, 李高仕. 一种双阶段正则网络故障诊断方法. 2025-07-01, 中国, 2025108982694（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 毛远康, 吴璟莉, 梁春健, 郭铖, 李高仕. 一种基于超立方体网络的故障诊断方法. 2025-07-17, 中国, 2025109891404（专利, 受理）&lt;/li&gt;
+&lt;li&gt;刘佳飞, 郭铖, 吴璟莉, 毛远康, 梁春健, 李高仕. 一种基于多特征容错框架的双向容错路径搜索方法. 2025-07-04, 中国, 2025109214841（专利, 受理）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;研究生国家奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>廖福星 - 2026级硕士研究生</title><link>https://liujiafei.xyz/posts/liaofuxing/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/liaofuxing/</guid><description>廖福星，2026级硕士研究生，研究方向为容错计算、故障诊断。</description><pubDate>Sat, 16 May 2026 11:50:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;廖福星&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;容错计算、故障诊断&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;备注&lt;/td&gt;&lt;td&gt;本科 2022 级，2026 级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生、2026 级硕士研究生（本校读研）。本科期间以第一作者发表 IEEE TRANS 汇刊论文 2 篇，其中 CCF A 类期刊论文 1 篇。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Fuxing Liao, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, Sun-Yuan Hsieh. Two Fault Diagnosis Strategies for Reliable Bubble-Sort Networks. &lt;em&gt;IEEE/ACM Transactions on Networking&lt;/em&gt; 34(2026)5696-5708（SCI, CCF A类, JCR1区, TOP期刊）&lt;/li&gt;
+&lt;li&gt;Fuxing Liao, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, Sun-Yuan Hsieh, Jingli Wu. A novel adaptive system-level fault self-diagnosis algorithm and its applications. &lt;em&gt;IEEE Transactions on Reliability&lt;/em&gt; 3(74)(2025)4294-4305（SCI 2区, JCR1区）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;刘佳飞, 郭铖, 廖福星, 吴璟莉, 李高仕. 一种自适应系统级故障自诊断方法. 2025-06-09, 中国, 2025107581390（专利, 受理）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;广西师范大学 硕士研究生（本校读研）&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>盖皋陶 - 2026级硕士研究生</title><link>https://liujiafei.xyz/posts/gegaitao/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/gegaitao/</guid><description>盖皋陶，2026级硕士研究生，研究方向为网络优化、故障诊断。</description><pubDate>Sat, 16 May 2026 11:48:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;盖皋陶&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;网络优化、故障诊断&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;备注&lt;/td&gt;&lt;td&gt;本科 2022 级，2026 级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生、2026 级硕士研究生（本校读研）。本科期间发表 CCF B 类期刊论文，并获软件著作权 1 项。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Gaotao Ge, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Dajin Wang, Jingli Wu, Gaoshi Li. A novel fault diagnostic algorithm with multiple characteristics for multiprocessor systems. &lt;em&gt;Theoretical Computer Science&lt;/em&gt; 1045(2025)115281（SCI, CCF B类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;盖皋陶, 陈啟功, 郭文婷, 黄燊营, 刘佳飞. 智控畅行——基于交通网络容错和调制小程序 V1.0. 2025-05-30, 中国, 2025SR0903773（软件著作权）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;广西师范大学 硕士研究生（本校读研）&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>谢炎臻 - 2026级硕士研究生</title><link>https://liujiafei.xyz/posts/xieyanzhen/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/xieyanzhen/</guid><description>谢炎臻，2026级硕士研究生，研究方向待定（容错计算与网络优化方向）。蓝桥杯全国三等奖、睿抗机器人开发者大赛国赛二等奖。</description><pubDate>Sat, 16 May 2026 11:46:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;谢炎臻&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;兴趣爱好&lt;/td&gt;&lt;td&gt;从零开始的薄肌养成生活，文明7重度依赖，雅马哈忠实粉丝，黄霄雲魔星……&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;特长&lt;/td&gt;&lt;td&gt;擅长打篮球崴脚，游泳脚抽筋和打乒乓球扭伤腰，非非物质文化传承技术古法编程传承人，在西门秦三面可以吃两大碗面加一个肉夹馍（不信的可以现场表演）&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;谢炎臻，2026级硕士研究生。曾在江西师范大学学习，参加过程序设计、机器人开发等相关竞赛，积累了一定的编程与软件开发实践经验。&lt;/p&gt;&lt;p&gt;研究生阶段计划围绕互连网络可靠性、故障诊断等方向开展学习与研究，具体研究课题待定。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;竞赛获奖&lt;a href=&quot;#竞赛获奖&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024年&lt;/strong&gt;：第十五届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛，C/C++ 程序设计大学 B 组三等奖。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023年&lt;/strong&gt;：第十四届蓝桥杯全国软件和信息技术专业人才大赛江西赛区，C/C++ 程序设计大学 B 组一等奖。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023年&lt;/strong&gt;：睿抗机器人开发者大赛（RAICOM）全国总决赛，编程技能赛二等奖。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022年&lt;/strong&gt;：江西省大学生科技创新竞赛二等奖。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022年&lt;/strong&gt;：RoboCom 机器人开发者大赛 CAIP 编程设计全国总决赛，本科组竞赛项目三等奖。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021年&lt;/strong&gt;：软件学院第一届“新锐杯”新生程序设计大赛二等奖。&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;奖学金与软件著作权&lt;a href=&quot;#奖学金与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;曾两次获得江西师范大学三等综合素质奖学金。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024年&lt;/strong&gt;：获得《智能化大数据事务管理与调度系统 V1.0》计算机软件著作权，著作权人为谢炎臻。&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;照片说明&lt;a href=&quot;#照片说明&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ 友情提示：右边那个比剪刀手的才是我，左边是漫展偶遇的兔耳小姐姐——我只是恰好在场，没有 cosplay 技能点 🐰✌️&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;blockquote&gt;&lt;p&gt;如果只看左边那只兔子，可能会误以为课题组研究方向是「毛绒玩具可靠性分析」🧸&lt;/p&gt;&lt;/blockquote&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;课题组相关信息参考&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;，个人荣誉依据所提供的证书整理。如有更新，欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>胡嘉琪 - 2025级硕士研究生</title><link>https://liujiafei.xyz/posts/hujiaqi/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/hujiaqi/</guid><description>胡嘉琪，2025级硕士研究生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sat, 16 May 2026 11:40:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;胡嘉琪&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025级硕士研究生，正在开展互连网络可靠性与故障诊断方向的基础训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>李佳琪 - 2025级硕士研究生</title><link>https://liujiafei.xyz/posts/lijiaqi/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/lijiaqi/</guid><description>李佳琪，2025级硕士研究生，研究方向为互连网络容错计算与故障诊断。</description><pubDate>Sat, 16 May 2026 11:38:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;李佳琪&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;互连网络容错计算与故障诊断&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025级硕士研究生，研究方向为互连网络容错计算与故障诊断，主要关注交换超立方体（EH(s,t)）及广义交换超立方体（GEH）等互连网络拓扑的高阶连通性、系统级可诊断性与故障诊断算法设计。目前正在开展 g 好邻居连通度、PMC 模型下非包含诊断度等课题的理论证明与大规模仿真验证工作。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;技能与经历&lt;a href=&quot;#技能与经历&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;编程与工具&lt;/strong&gt;：Python、Java、C/C++，熟悉 LaTeX、Matplotlib、drawio 及 Office 办公套件&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;项目经历&lt;/strong&gt;：基于 Spring MVC 的轻量级电商购物车管理系统；面向金融机构的信贷风险管理工具系统&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;荣誉证书&lt;/strong&gt;：英语六级（CET-6）、学业奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;不足为外人道。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>马亮 - 2025级硕士研究生</title><link>https://liujiafei.xyz/posts/maliang/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/maliang/</guid><description>马亮，2025级硕士研究生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sat, 16 May 2026 11:36:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;马亮&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级硕士研究生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025级硕士研究生，正在开展互连网络可靠性与故障诊断方向的基础训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>王志航 - 2022级本科生</title><link>https://liujiafei.xyz/posts/wangzhihang/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wangzhihang/</guid><description>王志航，2022级本科生，研究方向为故障诊断、网络可靠性。</description><pubDate>Fri, 15 May 2026 12:10:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;王志航&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2022级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;故障诊断、网络可靠性&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;备注&lt;/td&gt;&lt;td&gt;厦门大学访学 1 年&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生，发表 SCI 三区期刊论文 2 篇，获软件著作权 1 项，赴厦门大学访学 1 年。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Zhihang Wang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Sun-Yuan Hsieh. A hybrid fault detection algorithm with the g-good-neighbor pattern and its applications. &lt;em&gt;Discrete Applied Mathematics&lt;/em&gt; 378(2026)366–376（SCI 3区, CCF C类, 数学类TOP期刊）&lt;/li&gt;
+&lt;li&gt;Zhihang Wang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, Jingli Wu, Gaoshi Li. An analysis on component reliability of (n, k)-star networks. &lt;em&gt;Journal of Supercomputing&lt;/em&gt; (2025)(81)626（SCI, CCF C类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;王志航, 刘佳飞. 工业设备故障诊断信息管理系统. 2025-04-23, 中国, 2025SR0668241（软件著作权）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 北京科技大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陈啟功 - 2022级本科生</title><link>https://liujiafei.xyz/posts/chengqigong/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/chengqigong/</guid><description>陈啟功，2022级本科生，研究方向为网络可靠性。</description><pubDate>Fri, 15 May 2026 12:08:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陈啟功&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2022级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;网络可靠性&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生，发表 SCI / CCF B 类期刊论文，并参与软件著作权 1 项。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Qigong Chen, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, Jingli Wu, Gaoshi Li. The reliability of (n, k)-star network in terms of non-inclusive fault pattern. &lt;em&gt;Theoretical Computer Science&lt;/em&gt; 1039(2025)115189（SCI, CCF B类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;盖皋陶, 陈啟功, 郭文婷, 黄燊营, 刘佳飞. 智控畅行——基于交通网络容错和调制小程序 V1.0. 2025-05-30, 中国, 2025SR0903773（软件著作权）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 福州大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>阳清 - 2022级本科生</title><link>https://liujiafei.xyz/posts/yangqing/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/yangqing/</guid><description>阳清，2022级本科生，研究方向为复杂网络分析、数据挖掘。</description><pubDate>Fri, 15 May 2026 12:06:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;阳清&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2022级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析、数据挖掘&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生，发表 SCI / EI 论文 2 篇，获本科生国家奖学金与软件著作权 1 项。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Qing Yang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Dajin Wang, Jingli Wu, Gaoshi Li. A novel ranking scheme for identifying influential nodes in complex networks. &lt;em&gt;Journal of Supercomputing&lt;/em&gt; 81(2025)1638（SCI, CCF C类）&lt;/li&gt;
+&lt;li&gt;Qing Yang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;. Hybrid gravity-based centrality scheme for high-resolution influencer detection in complex networks. &lt;em&gt;ICCNC 2025&lt;/em&gt;, vol 2539, pp 147–163, Springer（EI）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;专利与软件著作权&lt;a href=&quot;#专利与软件著作权&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;阳清, 刘佳飞. 复杂网络关键节点识别系统 V1.0. 2025-06-24, 中国, 2025SR1075837（软件著作权）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本科生国家奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 福州大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>程昕邦 - 2022级本科生</title><link>https://liujiafei.xyz/posts/chengxinbang/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/chengxinbang/</guid><description>程昕邦，2022级本科生，研究方向为复杂网络分析、节点影响力排序。</description><pubDate>Fri, 15 May 2026 12:04:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;程昕邦&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2022级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析、节点影响力排序&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生，发表 SCI 论文 2 篇，获本科生国家奖学金与校长奖学金，直博北京航空航天大学。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Xinbang Cheng, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Chia-Wei Lee, Sun-Yuan Hsieh, Jingli Wu, Gaoshi Li. A novel influence rank algorithm in complex networks. &lt;em&gt;Information Sciences&lt;/em&gt; 752(2026)123590（SCI 1区, JCR1区, CCF B类期刊）&lt;/li&gt;
+&lt;li&gt;Xinbang Cheng, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Qiang He, Jingli Wu, Gaoshi Li. A multi-feature vital node identification scheme in complex networks. &lt;em&gt;Physics Letters A&lt;/em&gt; 562(2025)131004（SCI 3区, JCR 2区）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本科生国家奖学金&lt;/li&gt;
+&lt;li&gt;校长奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;直博 北京航空航天大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>周何馨 - 2022级本科生</title><link>https://liujiafei.xyz/posts/zhouhexin/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/zhouhexin/</guid><description>周何馨，2022级本科生，研究方向为数据挖掘。</description><pubDate>Fri, 15 May 2026 12:02:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;周何馨&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2022级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;数据挖掘&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生，参与复杂网络关键节点识别相关研究。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 福州大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陈斯淋 - 2022级本科生</title><link>https://liujiafei.xyz/posts/chensilin/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/chensilin/</guid><description>陈斯淋，2022级本科生，研究方向为复杂网络分析。</description><pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陈斯淋&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2022级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2022 级本科生，发表中文核心期刊论文 1 篇。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;陈斯淋, &lt;strong&gt;刘佳飞(通讯作者)&lt;/strong&gt;, 周何馨, 吴璟莉, 李高仕. 复杂网络中基于多特征的引力模型的关键节点识别方法. &lt;em&gt;广西师范大学学报（自然科学版）&lt;/em&gt; 2026, 44(2)132-144（中文核心）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 安徽大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>李朝阳 - 2023级本科生</title><link>https://liujiafei.xyz/posts/lizhaoyang/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/lizhaoyang/</guid><description>李朝阳，2023级本科生，研究方向为复杂网络分析。</description><pubDate>Thu, 14 May 2026 12:10:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;李朝阳&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，发表 SCI 三区期刊论文 1 篇，保研中国矿业大学。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Zhaoyang Li, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Jingya Zhou. Node importance estimation in complex networks based on entropic Modularity-Perturbed gravity model. &lt;em&gt;Physics Letters A&lt;/em&gt; 583(2026)131600（SCI 3区, JCR 2区）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 中国矿业大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>李杨阳 - 2023级本科生</title><link>https://liujiafei.xyz/posts/liyangyang/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/liyangyang/</guid><description>李杨阳，2023级本科生，研究方向为复杂网络分析。</description><pubDate>Thu, 14 May 2026 12:08:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;李杨阳&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，参与复杂网络关键节点识别方向研究。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 郑州大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陆艺先 - 2023级本科生</title><link>https://liujiafei.xyz/posts/luyixian/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/luyixian/</guid><description>陆艺先，2023级本科生，研究方向为复杂网络分析、关键节点识别。</description><pubDate>Thu, 14 May 2026 12:06:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陆艺先&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析、关键节点识别&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，发表 SCI 二区期刊论文 1 篇，保研北京师范大学。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Yixian Lu, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Jingli Wu, Guangquan Lu. A key node identification method based on neighborhood-derived cluster method. &lt;em&gt;Neurocomputing&lt;/em&gt; 702(2026)134646（SCI 2区, JCR1区）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 北京师范大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>王璀璨 - 2023级本科生</title><link>https://liujiafei.xyz/posts/wangcuican/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wangcuican/</guid><description>王璀璨，2023级本科生，研究方向为复杂网络分析。</description><pubDate>Thu, 14 May 2026 12:04:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;王璀璨&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，发表 SCI 期刊论文 1 篇，保研苏州大学。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Cuican Wang, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Jingli Wu. Composite Entropy-Based Gravity Model for Key Node Detection in Complex Networks. &lt;em&gt;Journal of Supercomputing&lt;/em&gt; 82(2026)540（SCI, CCF C类）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 苏州大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>文轩 - 2023级本科生</title><link>https://liujiafei.xyz/posts/wenxuan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wenxuan/</guid><description>文轩，2023级本科生，研究方向为复杂网络分析。</description><pubDate>Thu, 14 May 2026 12:02:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;文轩&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，发表中文核心期刊论文 1 篇，获国家奖学金，保研北京科技大学。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;荣誉奖项&lt;a href=&quot;#荣誉奖项&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;国家奖学金&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 北京科技大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陈海龙 - 2023级本科生</title><link>https://liujiafei.xyz/posts/chenhailong/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/chenhailong/</guid><description>陈海龙，2023级本科生，研究方向为复杂网络分析、节点影响力。</description><pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陈海龙&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析、节点影响力&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，发表 SCI 期刊论文 1 篇，保研安徽大学。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;学术论文&lt;a href=&quot;#学术论文&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hailong Chen, &lt;strong&gt;Jiafei Liu(通讯作者)&lt;/strong&gt;, Eddie Cheng. KSvoterank: k-Shell &amp;amp; Voting for Dispersed Key Node Identification. &lt;em&gt;International Journal of Machine Learning and Cybernetics&lt;/em&gt; 17(2026)444（SCI 3区）&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 安徽大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>伍媛媛 - 2023级本科生</title><link>https://liujiafei.xyz/posts/wuyuanyuan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wuyuanyuan/</guid><description>伍媛媛，2023级本科生，研究方向为复杂网络分析。</description><pubDate>Thu, 14 May 2026 11:58:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;伍媛媛&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;复杂网络分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 级本科生，参与复杂网络方向研究。&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;毕业去向&lt;a href=&quot;#毕业去向&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;保研 华南师范大学&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>崔艺丹 - 2024级本科生</title><link>https://liujiafei.xyz/posts/cuiyidan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/cuiyidan/</guid><description>崔艺丹，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 12:10:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;崔艺丹&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陆苗苗 - 2024级本科生</title><link>https://liujiafei.xyz/posts/lumiaomiao/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/lumiaomiao/</guid><description>陆苗苗，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 12:08:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陆苗苗&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陆弋琪 - 2024级本科生</title><link>https://liujiafei.xyz/posts/luyiqi/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/luyiqi/</guid><description>陆弋琪，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 12:06:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陆弋琪&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>赖思宇 - 2024级本科生</title><link>https://liujiafei.xyz/posts/laisiyu/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/laisiyu/</guid><description>赖思宇，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 12:04:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;赖思宇&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;备注&lt;/td&gt;&lt;td&gt;厦门大学访学 1 年&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>唐宇权 - 2024级本科生</title><link>https://liujiafei.xyz/posts/tangyuquan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/tangyuquan/</guid><description>唐宇权，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 12:02:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;唐宇权&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>田景愿 - 2024级本科生</title><link>https://liujiafei.xyz/posts/tianjingyuan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/tianjingyuan/</guid><description>田景愿，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;田景愿&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;备注&lt;/td&gt;&lt;td&gt;厦门大学访学 1 年&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>沈浩杰 - 2024级本科生</title><link>https://liujiafei.xyz/posts/shenhaojie/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/shenhaojie/</guid><description>沈浩杰，2024级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Wed, 13 May 2026 11:58:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;沈浩杰&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2024级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2024 级本科生，在课题组接受科研训练，参与互连网络可靠性与复杂网络分析的入门课题。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>杨涛 - 2025级本科生</title><link>https://liujiafei.xyz/posts/yangtao/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/yangtao/</guid><description>杨涛，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 12:10:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;杨涛&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>包惠惠 - 2025级本科生</title><link>https://liujiafei.xyz/posts/baohuihui/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/baohuihui/</guid><description>包惠惠，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 12:08:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;包惠惠&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>黄兰婷 - 2025级本科生</title><link>https://liujiafei.xyz/posts/huanglanting/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/huanglanting/</guid><description>黄兰婷，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 12:06:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;黄兰婷&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>范礼财 - 2025级本科生</title><link>https://liujiafei.xyz/posts/fanlicai/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/fanlicai/</guid><description>范礼财，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 12:04:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;范礼财&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>高毓涵 - 2025级本科生</title><link>https://liujiafei.xyz/posts/gaoyuhan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/gaoyuhan/</guid><description>高毓涵，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 12:02:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;高毓涵&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>向元静 - 2025级本科生</title><link>https://liujiafei.xyz/posts/xiangyuanjing/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/xiangyuanjing/</guid><description>向元静，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;向元静&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>杨颜菲 - 2025级本科生</title><link>https://liujiafei.xyz/posts/yangyanfei/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/yangyanfei/</guid><description>杨颜菲，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Tue, 12 May 2026 11:58:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;杨颜菲&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025 级本科生，正在课题组参与科研入门训练，学习图论与网络可靠性的基础知识。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陆昌晟 - 2026级本科生</title><link>https://liujiafei.xyz/posts/luchangsheng/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/luchangsheng/</guid><description>陆昌晟，2026级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Mon, 11 May 2026 12:10:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陆昌晟&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2026 级本科生，即将加入课题组，从程序设计竞赛与数学建模开始科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>程智成 - 2026级本科生</title><link>https://liujiafei.xyz/posts/chengzhicheng/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/chengzhicheng/</guid><description>程智成，2026级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Mon, 11 May 2026 12:08:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;程智成&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2026 级本科生，即将加入课题组，从程序设计竞赛与数学建模开始科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>罗苏俊杰 - 2026级本科生</title><link>https://liujiafei.xyz/posts/luosujunjie/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/luosujunjie/</guid><description>罗苏俊杰，2026级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Mon, 11 May 2026 12:06:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;罗苏俊杰&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2026 级本科生，即将加入课题组，从程序设计竞赛与数学建模开始科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>陆诗芸 - 2026级本科生</title><link>https://liujiafei.xyz/posts/lushiyun/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/lushiyun/</guid><description>陆诗芸，2026级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Mon, 11 May 2026 12:04:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;陆诗芸&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2026级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2026 级本科生，即将加入课题组，从程序设计竞赛与数学建模开始科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>杨晓涵 - 2023级本科生</title><link>https://liujiafei.xyz/posts/yangxiaohan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/yangxiaohan/</guid><description>杨晓涵，2023级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;杨晓涵&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>王世远 - 2025级本科生</title><link>https://liujiafei.xyz/posts/wangshiyuan/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wangshiyuan/</guid><description>王世远，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;王世远&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>苏琮宝 - 2023级本科生</title><link>https://liujiafei.xyz/posts/sucongbao/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/sucongbao/</guid><description>苏琮宝，2023级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 11:58:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;苏琮宝&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>王俊皓 - 2025级本科生</title><link>https://liujiafei.xyz/posts/wangjunhao/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wangjunhao/</guid><description>王俊皓，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 11:58:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;王俊皓&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>邹嘉宇 - 2023级本科生</title><link>https://liujiafei.xyz/posts/zoujiayu/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/zoujiayu/</guid><description>邹嘉宇，2023级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 11:56:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;邹嘉宇&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>王文雅 - 2025级本科生</title><link>https://liujiafei.xyz/posts/wangwenya/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/wangwenya/</guid><description>王文雅，2025级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 11:56:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;王文雅&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2025级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2025级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>潘俊宏 - 2023级本科生</title><link>https://liujiafei.xyz/posts/panjunhong/</link><guid isPermaLink="true">https://liujiafei.xyz/posts/panjunhong/</guid><description>潘俊宏，2023级本科生，研究方向待定（容错计算与网络优化方向）。</description><pubDate>Sun, 10 May 2026 11:54:00 GMT</pubDate><content:encoded>&lt;section&gt;&lt;h2&gt;基本信息&lt;a href=&quot;#基本信息&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;项目&lt;/th&gt;&lt;th&gt;内容&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;姓名&lt;/td&gt;&lt;td&gt;&lt;strong&gt;潘俊宏&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;身份&lt;/td&gt;&lt;td&gt;2023级本科生&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;导师&lt;/td&gt;&lt;td&gt;刘佳飞 副教授&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;研究方向&lt;/td&gt;&lt;td&gt;待定（容错计算与网络优化方向）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;课题组&lt;/td&gt;&lt;td&gt;容错计算与网络优化实验室&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;个人简介&lt;a href=&quot;#个人简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023级本科生，曾参与课题组科研训练。&lt;/p&gt;&lt;hr /&gt;&lt;blockquote&gt;&lt;p&gt;本页内容依据&lt;a href=&quot;http://www.cs.gxnu.edu.cn/2020/0224/c10457a245600/page.htm&quot; target=&quot;_blank&quot;&gt;刘佳飞老师学院主页&lt;/a&gt;整理，如有更新欢迎联系 &lt;strong&gt;刘佳飞&lt;/strong&gt;（&lt;a href=&quot;#&quot;&gt;liujiafei@gxnu.edu.cn&lt;/a&gt;）。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item></channel></rss>
